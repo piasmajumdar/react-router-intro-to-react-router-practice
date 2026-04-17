@@ -13,6 +13,7 @@ const User = ({ user }) => {
     }
 
 
+
     return (
         <div className='user-card'>
             <h4>Name: {user.name}</h4>
